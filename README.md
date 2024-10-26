@@ -12,6 +12,13 @@ Features 🌟
   8. .Database: MongoDB
 
 Steps to install and run it in your local machine:
-  1. git clone 
+  1. git clone https://github.com/LovishManchanda719/Manifesta.git
+  2. npm i
+  3. npm run dev
+
+Steps to update your changes and raise a pull request to update the code:
+  1. Install Github Desktop
+  2. Publish your code
+  3. Raise a pull request
 
 Made with ❤️ by team Manifesta.
