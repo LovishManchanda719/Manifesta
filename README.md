@@ -1,4 +1,4 @@
-Manifesta 🎉
+# Manifesta 🎉
 Manifesta is a web platform that enables college societies to list and promote their events, making it easy for students to discover and engage with campus activities. 📅✨
 
 Features 🌟
