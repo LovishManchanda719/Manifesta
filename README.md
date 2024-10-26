@@ -18,7 +18,8 @@ Manifesta is a web platform that enables college societies to list and promote t
 
 # Steps to update your changes and raise a pull request to update the code:
   1. Install Github Desktop
-  2. Publish your code
-  3. Raise a pull request
+  2. Update the code in any other branch
+  3. Publish your code
+  4. Raise a pull request
 
 # Made with ❤️ by team Manifesta.
