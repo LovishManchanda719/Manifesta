@@ -10,3 +10,8 @@ Features 🌟
   6. Frontend: React, Tailwind CSS, Vite
   7. Backend: Node.js, Express.js
   8. .Database: MongoDB
+
+Steps to install and run it in your local machine:
+  1. git clone 
+
+Made with ❤️ by team Manifesta.
