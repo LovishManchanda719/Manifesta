@@ -67,7 +67,7 @@ import {
           </NavbarLink>
           <NavbarLink href="#">Calendar</NavbarLink>
           <NavbarLink href="#">Post your Event</NavbarLink>
-          <NavbarLink href="#">Hackathons</NavbarLink>
+          <NavbarLink href="#">Discover</NavbarLink>
           <NavbarLink href="#">Events</NavbarLink>
         </NavbarCollapse>
       </Navbar>
